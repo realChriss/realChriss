@@ -24,11 +24,3 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-20232a?style=flat&logo=react)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![realChriss's GitHub stats](https://github-readme-stats.vercel.app/api?username=realChriss&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realChriss&layout=compact&hide=css,html&theme=radical)
-
