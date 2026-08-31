@@ -1,7 +1,7 @@
 # Hi, I’m Chriss! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=realChriss&color=blueviolet)
-[![Website](https://img.shields.io/badge/Portfolio-chriss.cyou-9cf?style=flat&logo=google-chrome)](https://chriss.cyou)
+[![Website](https://img.shields.io/badge/Portfolio-chriss.cyou-9cf?style=flat&logo=google-chrome)](https://am1v.wtf)
 
 ---
 
@@ -9,7 +9,6 @@
 
 - 🧑‍💻 **Software Engineer**
 - 🛠️ Working with **JavaScript**, **TypeScript**, and **C#**
-- 🌐 Explore my portfolio: [chriss.cyou](https://chriss.cyou)
 
 ---
 
