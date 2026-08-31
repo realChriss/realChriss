@@ -1,7 +1,7 @@
 # Hi, I’m Chriss! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=realChriss&color=blueviolet)
-[![Website](https://img.shields.io/badge/Portfolio-chriss.cyou-9cf?style=flat&logo=google-chrome)](https://am1v.wtf)
+[![Website](https://img.shields.io/badge/Portfolio-am1v.wtf-9cf?style=flat&logo=google-chrome)](https://am1v.wtf)
 
 ---
 
