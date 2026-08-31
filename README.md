@@ -5,13 +5,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-- 🧑‍💻 **Software Engineer**
-- 🛠️ Working with **JavaScript**, **TypeScript**, and **C#**
-
----
-
 ## 🚀 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
