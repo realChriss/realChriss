@@ -9,7 +9,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-am1v.wtf-0072FF?style=flat-square&logo=google-chrome&logoColor=white)](https://am1v.wtf)
-![Profile Views](https://komarev.com/ghpvc/?username=realChriss&color=0072FF&style=flat-square&label=Profile+Views)
+<!--![Profile Views](https://komarev.com/ghpvc/?username=realChriss&color=0072FF&style=flat-square&label=Profile+Views)-->
 
 </div>
 
