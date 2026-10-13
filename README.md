@@ -22,9 +22,9 @@
 ## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/VexWave/vex-app"><img src="https://repora.am1v.wtf/VexWave/vex-app?style=glow&accent=6725CB&width=300&icon=assets%2Fvex-logo.png&show_description=false&show_forks=false&scale=0.80" alt="VexWave/vex-app" /></a>
-  <a href="https://github.com/Plasmer-top/plasmer"><img src="https://repora.am1v.wtf/Plasmer-top/plasmer?style=glow&accent=2E89FF&width=300&icon=assets%2Ficon.png&show_description=false&show_forks=false&scale=0.80" alt="Plasmer-top/plasmer" /></a>
-  <a href="https://github.com/realChriss/repora"><img src="https://repora.am1v.wtf/realChriss/repora?style=glow&accent=11C7DF&width=300&icon=assets%2Ficon.png&show_description=false&show_forks=false&scale=0.80" alt="realChriss/repora" /></a>
+  <a href="https://github.com/VexWave/vex-app"><img src="https://repora.am1v.wtf/VexWave/vex-app?style=glow&layout=pill&scale=0.75&accent=6725CB&icon=assets%2Fvex-logo.png&show_owner=false" alt="vex-app" /></a>
+  <a href="https://github.com/Plasmer-top/plasmer"><img src="https://repora.am1v.wtf/Plasmer-top/plasmer?style=glow&layout=pill&scale=0.75&accent=2E89FF&icon=assets%2Ficon.png&show_owner=false" alt="plasmer" /></a>
+  <a href="https://github.com/realChriss/repora"><img src="https://repora.am1v.wtf/realChriss/repora?style=glow&layout=pill&scale=0.75&accent=11C7DF&icon=assets%2Ficon.png&show_owner=false" alt="repora" /></a>
 </p>
 
 ## 📊 Stats
